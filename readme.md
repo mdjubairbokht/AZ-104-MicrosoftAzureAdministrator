@@ -36,7 +36,7 @@ Effective immediately, the Admin password will be removed from the JSON template
 
 - This repository is only for Issues with the course labs. You can submit feedback or corrections on the [course content](https://docs.microsoft.com/learn/certifications/courses/az-104t00). Please use the _reporting an issue_ link at the bottom of each content page.
 
-## Notes
+## Notes ##
 
 ### Classroom Materials
 
