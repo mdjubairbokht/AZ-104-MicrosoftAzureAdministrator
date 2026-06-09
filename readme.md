@@ -26,13 +26,13 @@ Effective immediately, the Admin password will be removed from the JSON template
 
 - It will be recommended that for every delivery, trainers check GitHub for any changes that may have been made to support the latest Azure services, and get the latest files for their delivery.
 
-## How do I contribute?
+## How do I contribute? 
 
 - Any MCT can submit a pull request to the code or content in the GitHub repro, Microsoft and the course author will triage and include content and lab code changes as needed.
 
 - You can submit bugs, changes, improvement and ideas.  Find a new Azure feature before we have?  Submit a new demo!
 
-## What about changes to the student handbook?
+## What about changes to the student handbook? 
 
 - This repository is only for Issues with the course labs. You can submit feedback or corrections on the [course content](https://docs.microsoft.com/learn/certifications/courses/az-104t00). Please use the _reporting an issue_ link at the bottom of each content page.
 
