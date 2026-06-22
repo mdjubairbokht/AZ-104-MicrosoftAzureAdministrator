@@ -1,6 +1,6 @@
 # AZ-104: Microsoft Azure Administrator
 
-## Welcome
+## Welcome 
 
 This repository is for instructors teaching Microsoft courses. If you are in class, please ask your instructor for assistance. 
 
@@ -16,7 +16,7 @@ Effective immediately, the Admin password will be removed from the JSON template
 
 - To support this course, we will need to make frequent updates to the course content to keep it current with the Azure services used in the course.  We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes in the Azure platform.
 
-- We hope that this brings a sense of collaboration to the labs like we've never had before - when Azure changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source.  Help your fellow MCTs.
+- We hope that this brings a sense of collaboration to the labs like we've never had before - when Azure changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source.  Help your fellow MCTs. 
 
 ## How should I use these files relative to the released MOC files?
 
@@ -26,7 +26,7 @@ Effective immediately, the Admin password will be removed from the JSON template
 
 - It will be recommended that for every delivery, trainers check GitHub for any changes that may have been made to support the latest Azure services, and get the latest files for their delivery.
 
-## How do I contribute? 
+## How do I contribute?  
 
 - Any MCT can submit a pull request to the code or content in the GitHub repro, Microsoft and the course author will triage and include content and lab code changes as needed.
 
