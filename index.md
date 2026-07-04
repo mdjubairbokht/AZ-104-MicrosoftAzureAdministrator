@@ -4,11 +4,11 @@ permalink: index.html
 layout: home
 ---
 
-# Content Directory
+# Content Directory 
 
 Required labs files can be [DOWNLOADED HERE](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/archive/master.zip)
 
-## Labs
+## Labs 
 
 {% assign labs = site.pages | where_exp:"page", "page.url contains '/Instructions/Labs'" %}
 | Module | Lab |
